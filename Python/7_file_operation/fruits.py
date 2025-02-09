@@ -1,5 +1,5 @@
-fread=open('c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/fruits','r')
-fwrite=open('c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/fruits_1','w')
+fread=open('c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/fruits','r')
+fwrite=open('c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/fruits_1','w')
 
 '''
 for i in fread:

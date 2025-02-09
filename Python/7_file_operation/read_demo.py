@@ -1,6 +1,6 @@
 #Reading file
 
-f = open('c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/demo', 'r')
+f = open('c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/demo', 'r')
 
 for i in f:
     print(i)

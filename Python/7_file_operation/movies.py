@@ -1,4 +1,4 @@
-f = open("C:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/movies_cleaned_pandas.csv", 'r')
+f = open("C:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/movies_cleaned_pandas.csv", 'r')
 
 count=count2 =count3=count4= 0
 row=0
