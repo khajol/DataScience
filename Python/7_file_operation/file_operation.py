@@ -9,24 +9,24 @@
 # var = open('filename.txt', 'mode')
 
 # 1. Writing to a File ('w' mode)
-file = open("c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/sample.txt", "w")  # Create/Open file in write mode
+file = open("c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/sample.txt", "w")  # Create/Open file in write mode
 file.write("Hello, this is a test file.\n")
 file.write("File handling in Python is easy!\n")
 file.close()  # Close the file
 
 # 2. Reading from a File ('r' mode)
-file = open("c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/sample.txt", "r")  # Open file in read mode
+file = open("c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/sample.txt", "r")  # Open file in read mode
 content = file.read()  # Read the entire file
 print(content)  # Print file content
 file.close()
 
 # 3. Appending Data to a File ('a' mode)
-file = open("c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/sample.txt", "a")  # Open file in append mode
+file = open("c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/sample.txt", "a")  # Open file in append mode
 file.write("Appending new content...\n")
 file.close()
 
 # 4. Reading File Line by Line
-file = open("c:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/sample.txt", "r")
+file = open("c:/Users/khajo/Desktop/DataScience/Python/7_file_operation/files/sample.txt", "r")
 for line in file:
     print(line.strip())  # Read file line by line
 file.close()
