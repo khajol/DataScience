@@ -1,0 +1,66 @@
+Functions : Reusability & Code Optimization and help in reducing redundancy and improving readability
+
+"""
+3 steps for a function:
+***********************
+1.Define function name
+2. Write the function definition (logic)
+3. Call the function to execute it
+
+
+
+
+3 methods to create function:
+*****************************
+
+1.Function without argument and no return type
+2.Function with argument and no return type
+3.Function with argument and return type
+
+
+1.Function without argument and no return type:
+***********************************************
+* No input parameters
+* Does not return any value
+* Only executes the function logic
+
+syntax:
+def function_name():
+    function definition
+
+function_name()
+
+
+
+2.Function with argument and no return type:
+***********************************************
+* Takes parameters as input
+* Does not return any value
+* Performs an action using the given parameters
+
+syntax:
+def function_name(arg1,arg2,...,argn):
+    function definition
+
+function_name()
+
+
+
+
+3.Function with argument and return type:
+***********************************************
+* Takes parameters as input
+* Returns a value after processing
+
+syntax:
+def function_name(arg1,arg2,...,argn):
+    function definition
+    return value  #Return type: can return value on function call
+
+function_name()
+
+"""
+
+
+
+

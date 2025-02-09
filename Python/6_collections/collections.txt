@@ -1,0 +1,37 @@
+Collections : Used to store multiple values, overcoming the limitations of arrays (homogeneous & fixed size)
+
+Variables : Assign a single value
+
+Array : Collection of homogeneous data, Fixed size of elements
+
+Collections are used to overcome array drawbacks(homogeneous data and fixed length in array)
+Collections are heterogeneous data
+
+
+
+4 types of data:
+
+1. List – Ordered, mutable, allows duplicates.
+2. Tuple – Ordered, immutable, allows duplicates.
+3. Set – Unordered, mutable, unique elements.
+4. Dictionary  – Key-value pairs, ordered, mutable, unique keys.
+
+
+
+5 properties:
+
+1. How to define
+2. Heterogeneous data supported or not
+3. Duplicate values allowed or not
+4. Insertion order is preserved or not
+5. Mutable or Immutable
+
+
+Collection differences:
+
+Collection      Define      Heterogeneous     Duplicates        Insertion order     Mutable
+
+List             []             yes              yes                    yes           yes
+Tuple            ()             yes              yes                    yes           no
+Set             set()           yes              no                     no            yes
+Dictionary       {}             yes       keys:no, value:yes            yes           yes
