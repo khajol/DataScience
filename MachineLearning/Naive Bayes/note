@@ -1,0 +1,12 @@
+#naive bayes algo
+supervised ml algo
+used for classification
+based on  probability
+bayes theorm>conditional probability
+an event has occured ,the probability that another event happens based on the previous
+P(A/B)=P(A intersection B)/P(B)
+Bayes theorm>> P(A/B)=P(B/A)*P(A)/P(B)
+P(A/B)>Posterior probability
+P(B/A)>likelyhood probability
+P(A)>prior probability
+P(B)>marginal probability
